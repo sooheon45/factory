@@ -5,7 +5,6 @@ import java.util.List;
 import javax.persistence.*;
 import lombok.Data;
 import manufacture.FactoryApplication;
-import manufacture.domain.ProductManufactured;
 import org.springframework.context.ApplicationContext;
 
 @Entity

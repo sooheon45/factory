@@ -5,7 +5,6 @@ import java.util.List;
 import javax.persistence.*;
 import lombok.Data;
 import manufacture.StoreApplication;
-import manufacture.domain.OrderPlaced;
 import org.springframework.context.ApplicationContext;
 
 @Entity
